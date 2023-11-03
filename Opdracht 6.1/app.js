@@ -1,4 +1,4 @@
-function changecolor(console.log) {
+function changecolor() {
     // hier komt je code
 
 }
